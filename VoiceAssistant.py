@@ -8,7 +8,7 @@ import os
 import time
 import re
 
-API_KEY = "YOUR_GEMINI_API_KEY"
+API_KEY = "YOUR_GEMINI_API_KEY" # Replace this with your Gemini API Key
 WAKE_WORD = "jarvis"
 AUDIO_CARD = 3 # Change this Value to your Speaker Output by running "aplay -l" on your command prompt
 AUDIO_DEVICE = f"plughw:{AUDIO_CARD},0"   
