@@ -23,7 +23,7 @@ A Raspberry Pi–based AI voice assistant powered by Google Gemini and Edge Neur
 2. Python 3.9+
 3. ALSA audio system
 
-⚙️ System Setup (MANDATORY)
+**⚙️ System Setup (MANDATORY)**
 
 Update your system:
 ```
