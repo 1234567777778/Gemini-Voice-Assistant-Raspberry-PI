@@ -95,6 +95,10 @@ python3 assistant.py
 5. ALSA / mpg123
 6. AsyncIO
 
+📜 License
+
+MIT License – Free to use, modify, and distribute.
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Compatible-red)
 ![AI](https://img.shields.io/badge/Google-Gemini-green)
